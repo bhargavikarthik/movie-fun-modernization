@@ -1,6 +1,7 @@
 *.iml
 target
 classes
+.gradle
 build
 .idea
 .env
